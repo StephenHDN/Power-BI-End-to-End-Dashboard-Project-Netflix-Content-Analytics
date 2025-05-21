@@ -1,4 +1,4 @@
-# 📊 Netflix Power BI Dashboard – End-to-End Business Intelligence Project
+# 📊 Netflix Power BI Dashboard, BI Project
 
 This project showcases a full-cycle Power BI dashboard built to analyze Netflix content using publicly available data from Kaggle. It walks through the entire BI workflow—from data ingestion and transformation to modeling, DAX calculations, visualization, and design. The goal is to provide actionable insights into viewer engagement, content performance by genre and country, and trends across media types (TV Shows vs. Movies).
 
